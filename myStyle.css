@@ -1,0 +1,26 @@
+.tile{
+	height: 100px;
+	width: 100px; 
+	margin: 4px 2px;
+	background-color: coral;
+	cursor: pointer;
+}
+
+.btn{
+	height: 50px;
+	width: 30%;
+}
+
+#life{
+	visibility: hidden;
+}
+
+#score{
+	visibility: hidden;
+}
+
+img{
+	height: 100px;
+	width: 100px;
+	opacity: 0;			/* CAND INCEPE JOCUL IMAGINILE INCARCATE SUNT INVIZIBILE */
+}
